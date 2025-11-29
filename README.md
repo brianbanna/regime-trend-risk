@@ -1,4 +1,4 @@
-# Regime-Adaptive Trend and Risk System
+# Systematic Trend-Following Trading Strategy for Commodities
 
 This project develops a systematic trading framework that adapts to changing market regimes by combining trend-following strategies, volatility modeling, and risk-based portfolio control across major commodities.
 
